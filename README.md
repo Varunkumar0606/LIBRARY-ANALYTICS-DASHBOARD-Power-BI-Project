@@ -64,4 +64,4 @@ Tools Used:
 
 🔗 Project Link:
 
-[PASTE GITHUB LINK HERE]
+https://github.com/Varunkumar0606/LIBRARY-ANALYTICS-DASHBOARD-Power-BI-Project.git
